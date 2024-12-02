@@ -1,0 +1,529 @@
+Job_Title,Industry/Fields,Company_Size,Location,Sub-Category Fields, Salary_USD ,Job_Growth_Projection
+Cybersecurity Analyst,Entertainment,Small,Dubai,UX/UI Design," $1,11,392.17 ",Growth
+Marketing Specialist,Technology,Large,Singapore,Marketing," $93,792.56 ",Decline
+AI Researcher,Technology,Large,Singapore,UX/UI Design," $1,07,170.26 ",Growth
+Sales Manager,Retail,Small,Berlin,Project Management," $93,027.95 ",Growth
+Cybersecurity Analyst,Entertainment,Small,Tokyo,JavaScript," $87,752.92 ",Decline
+UX Designer,Education,Large,San Francisco,Cybersecurity," $1,02,825.01 ",Growth
+HR Manager,Finance,Medium,Singapore,Sales," $1,02,065.72 ",Growth
+Cybersecurity Analyst,Technology,Small,Dubai,Machine Learning," $86,607.32 ",Decline
+AI Researcher,Retail,Large,London,JavaScript," $75,015.86 ",Stable
+Sales Manager,Entertainment,Medium,Singapore,Cybersecurity," $96,834.58 ",Decline
+Marketing Specialist,Finance,Small,London,Python," $91,566.97 ",Growth
+AI Researcher,Entertainment,Medium,Singapore,UX/UI Design," $78,902.57 ",Growth
+AI Researcher,Transportation,Large,San Francisco,Python," $73,151.99 ",Growth
+HR Manager,Retail,Small,Paris,Cybersecurity," $98,209.52 ",Decline
+Product Manager,Finance,Medium,Singapore,JavaScript," $1,01,001.90 ",Growth
+Sales Manager,Telecommunications,Small,Dubai,UX/UI Design," $82,799.36 ",Growth
+Software Engineer,Manufacturing,Medium,Singapore,Machine Learning," $78,401.26 ",Decline
+AI Researcher,Manufacturing,Large,Tokyo,Project Management," $73,394.90 ",Stable
+Product Manager,Finance,Large,San Francisco,UX/UI Design," $97,645.10 ",Stable
+Software Engineer,Entertainment,Small,Dubai,UX/UI Design," $73,920.46 ",Growth
+Sales Manager,Retail,Medium,Sydney,JavaScript," $1,34,822.69 ",Decline
+Data Scientist,Manufacturing,Small,Dubai,JavaScript," $81,794.37 ",Growth
+UX Designer,Retail,Small,Tokyo,Cybersecurity," $41,495.71 ",Decline
+Product Manager,Manufacturing,Medium,Paris,Data Analysis," $89,396.57 ",Decline
+Operations Manager,Transportation,Medium,San Francisco,UX/UI Design," $88,539.33 ",Stable
+Data Scientist,Entertainment,Medium,Sydney,Sales," $1,12,234.37 ",Stable
+UX Designer,Transportation,Large,Tokyo,UX/UI Design," $95,762.52 ",Decline
+HR Manager,Manufacturing,Small,Tokyo,Cybersecurity," $73,323.30 ",Growth
+Cybersecurity Analyst,Telecommunications,Small,New York,Marketing," $84,272.16 ",Stable
+Marketing Specialist,Telecommunications,Large,San Francisco,Python," $96,548.40 ",Growth
+Operations Manager,Transportation,Medium,Dubai,Project Management," $46,705.71 ",Stable
+HR Manager,Telecommunications,Large,London,Data Analysis," $1,16,772.43 ",Stable
+Sales Manager,Manufacturing,Large,Paris,Machine Learning," $73,376.60 ",Growth
+HR Manager,Finance,Large,London,Machine Learning," $1,18,340.88 ",Stable
+Cybersecurity Analyst,Transportation,Small,Dubai,Machine Learning," $97,849.30 ",Stable
+Sales Manager,Healthcare,Large,Dubai,JavaScript," $1,02,591.88 ",Growth
+Operations Manager,Entertainment,Small,San Francisco,Machine Learning," $1,12,988.47 ",Stable
+Cybersecurity Analyst,Telecommunications,Small,Dubai,Project Management," $1,01,462.64 ",Stable
+Software Engineer,Telecommunications,Small,New York,Python," $1,03,457.72 ",Stable
+Marketing Specialist,Technology,Medium,Sydney,Machine Learning," $86,711.67 ",Growth
+Operations Manager,Education,Small,Dubai,UX/UI Design," $97,443.37 ",Decline
+Software Engineer,Transportation,Small,London,UX/UI Design," $78,250.04 ",Growth
+UX Designer,Energy,Medium,Dubai,JavaScript," $83,131.78 ",Decline
+Operations Manager,Telecommunications,Small,New York,Project Management," $1,29,293.90 ",Stable
+UX Designer,Entertainment,Large,Singapore,Python," $73,836.13 ",Decline
+Sales Manager,Healthcare,Large,Singapore,Data Analysis," $93,086.34 ",Growth
+Software Engineer,Telecommunications,Small,Tokyo,Cybersecurity," $92,269.38 ",Growth
+Marketing Specialist,Healthcare,Medium,Paris,Python," $83,784.91 ",Stable
+Cybersecurity Analyst,Manufacturing,Large,Berlin,Cybersecurity," $1,00,288.02 ",Decline
+AI Researcher,Manufacturing,Medium,Sydney,Marketing," $1,01,794.44 ",Stable
+HR Manager,Education,Medium,Toronto,Cybersecurity," $71,483.62 ",Stable
+Data Scientist,Finance,Large,Tokyo,Sales," $92,027.13 ",Growth
+Marketing Specialist,Energy,Medium,Paris,UX/UI Design," $68,352.65 ",Decline
+Software Engineer,Technology,Large,Singapore,Project Management," $1,05,770.97 ",Decline
+AI Researcher,Education,Medium,London,Communication," $93,529.75 ",Decline
+Marketing Specialist,Retail,Large,Toronto,JavaScript," $91,646.60 ",Decline
+Software Engineer,Technology,Small,Paris,Sales," $1,03,180.63 ",Stable
+Product Manager,Transportation,Large,Paris,Cybersecurity," $84,489.79 ",Stable
+Product Manager,Entertainment,Large,Tokyo,Machine Learning," $1,08,280.44 ",Growth
+UX Designer,Retail,Large,Toronto,Project Management," $71,031.10 ",Stable
+Marketing Specialist,Retail,Large,San Francisco,Sales," $1,18,237.53 ",Stable
+Product Manager,Education,Medium,Berlin,JavaScript," $78,981.78 ",Growth
+Software Engineer,Finance,Small,San Francisco,UX/UI Design," $56,076.42 ",Growth
+UX Designer,Education,Large,Toronto,Project Management," $83,429.30 ",Growth
+Software Engineer,Transportation,Medium,San Francisco,JavaScript," $81,160.64 ",Stable
+UX Designer,Telecommunications,Small,New York,Marketing," $83,278.52 ",Stable
+Marketing Specialist,Telecommunications,Small,Singapore,Marketing," $94,632.96 ",Growth
+AI Researcher,Finance,Small,New York,JavaScript," $1,11,956.85 ",Growth
+Cybersecurity Analyst,Transportation,Small,Dubai,Sales," $86,165.88 ",Growth
+Operations Manager,Finance,Large,San Francisco,Project Management," $76,167.65 ",Stable
+AI Researcher,Healthcare,Large,Dubai,Sales," $67,469.06 ",Stable
+Sales Manager,Telecommunications,Medium,London,Data Analysis," $80,636.34 ",Decline
+Software Engineer,Retail,Medium,Sydney,Cybersecurity," $52,243.50 ",Stable
+Sales Manager,Energy,Medium,London,Data Analysis," $75,497.34 ",Stable
+AI Researcher,Entertainment,Small,Toronto,Marketing," $1,14,881.08 ",Stable
+UX Designer,Transportation,Small,Paris,UX/UI Design," $73,532.82 ",Growth
+Operations Manager,Technology,Large,Singapore,Python," $1,02,574.32 ",Stable
+Operations Manager,Finance,Small,San Francisco,Cybersecurity," $65,470.36 ",Growth
+Data Scientist,Entertainment,Small,Tokyo,Marketing," $1,25,421.92 ",Decline
+Operations Manager,Technology,Small,Sydney,Sales," $1,26,752.13 ",Decline
+Cybersecurity Analyst,Entertainment,Medium,Berlin,Sales," $1,01,820.43 ",Growth
+Operations Manager,Energy,Medium,Berlin,Sales," $1,29,825.05 ",Growth
+AI Researcher,Technology,Large,Berlin,UX/UI Design," $97,115.86 ",Growth
+Data Scientist,Education,Small,San Francisco,Data Analysis," $1,05,370.34 ",Stable
+AI Researcher,Manufacturing,Small,Berlin,Python," $1,15,238.68 ",Decline
+AI Researcher,Education,Large,New York,Sales," $93,594.37 ",Growth
+HR Manager,Telecommunications,Small,Sydney,Communication," $58,952.45 ",Stable
+Data Scientist,Manufacturing,Small,New York,Cybersecurity," $1,05,779.27 ",Decline
+AI Researcher,Education,Medium,Paris,Project Management," $80,562.81 ",Stable
+HR Manager,Manufacturing,Large,Sydney,Communication," $82,049.40 ",Decline
+HR Manager,Manufacturing,Large,New York,Python," $95,957.90 ",Stable
+Data Scientist,Retail,Large,Sydney,UX/UI Design," $1,01,325.62 ",Decline
+Sales Manager,Finance,Large,Paris,Python," $93,002.69 ",Decline
+UX Designer,Finance,Medium,Dubai,Project Management," $1,02,714.59 ",Stable
+Cybersecurity Analyst,Retail,Medium,San Francisco,Cybersecurity," $75,862.86 ",Growth
+UX Designer,Entertainment,Small,San Francisco,Project Management," $89,145.92 ",Decline
+Operations Manager,Healthcare,Small,Berlin,JavaScript," $1,06,981.71 ",Growth
+Cybersecurity Analyst,Entertainment,Small,London,Cybersecurity," $1,25,455.82 ",Stable
+Operations Manager,Technology,Small,Berlin,Python," $1,32,528.71 ",Growth
+AI Researcher,Technology,Medium,Toronto,Sales," $98,659.53 ",Growth
+Software Engineer,Manufacturing,Large,New York,Python," $1,06,800.20 ",Growth
+Data Scientist,Education,Medium,Sydney,Python," $1,29,631.58 ",Growth
+Cybersecurity Analyst,Education,Small,London,Cybersecurity," $76,583.28 ",Growth
+Cybersecurity Analyst,Finance,Medium,Paris,JavaScript," $1,02,594.00 ",Decline
+AI Researcher,Transportation,Large,Toronto,Python," $1,05,366.86 ",Decline
+Sales Manager,Entertainment,Large,Paris,Communication," $1,18,957.23 ",Decline
+HR Manager,Telecommunications,Medium,San Francisco,Marketing," $67,257.17 ",Stable
+AI Researcher,Energy,Medium,San Francisco,Machine Learning," $71,211.88 ",Growth
+Product Manager,Education,Medium,Berlin,Machine Learning," $90,427.64 ",Decline
+HR Manager,Energy,Small,New York,Python," $97,554.55 ",Stable
+Data Scientist,Manufacturing,Medium,London,Communication," $1,12,457.28 ",Decline
+HR Manager,Energy,Medium,Singapore,Sales," $1,00,350.88 ",Decline
+Sales Manager,Telecommunications,Medium,Toronto,UX/UI Design," $86,971.74 ",Growth
+HR Manager,Retail,Large,Toronto,UX/UI Design," $98,329.23 ",Stable
+Data Scientist,Telecommunications,Large,Berlin,Cybersecurity," $96,020.89 ",Growth
+Sales Manager,Energy,Small,San Francisco,Machine Learning," $1,24,900.33 ",Growth
+UX Designer,Telecommunications,Small,Berlin,Python," $93,313.18 ",Decline
+Cybersecurity Analyst,Healthcare,Large,Sydney,UX/UI Design," $82,338.33 ",Growth
+Cybersecurity Analyst,Manufacturing,Large,London,Python," $98,992.18 ",Stable
+Operations Manager,Entertainment,Large,New York,Cybersecurity," $93,969.71 ",Growth
+UX Designer,Retail,Medium,Dubai,Machine Learning," $58,580.13 ",Growth
+UX Designer,Education,Medium,Tokyo,Project Management," $89,686.96 ",Growth
+HR Manager,Technology,Large,Tokyo,Marketing," $87,985.24 ",Decline
+Cybersecurity Analyst,Entertainment,Medium,Berlin,Marketing," $79,122.56 ",Stable
+Data Scientist,Technology,Medium,Sydney,UX/UI Design," $1,10,711.67 ",Decline
+Marketing Specialist,Manufacturing,Small,London,Marketing," $74,286.41 ",Decline
+Marketing Specialist,Retail,Large,Singapore,Project Management," $99,112.37 ",Decline
+Sales Manager,Finance,Large,Tokyo,Python," $87,042.86 ",Decline
+Cybersecurity Analyst,Education,Medium,London,Cybersecurity," $92,153.90 ",Decline
+Cybersecurity Analyst,Healthcare,Large,New York,Project Management," $98,235.73 ",Stable
+Marketing Specialist,Finance,Small,Paris,Cybersecurity," $63,848.51 ",Growth
+Cybersecurity Analyst,Manufacturing,Small,Sydney,Cybersecurity," $93,833.22 ",Decline
+HR Manager,Entertainment,Small,San Francisco,Machine Learning," $1,35,778.95 ",Decline
+Product Manager,Healthcare,Large,London,Python," $58,864.73 ",Stable
+Software Engineer,Telecommunications,Large,New York,Communication," $88,847.84 ",Stable
+UX Designer,Energy,Large,Singapore,Marketing," $1,12,464.79 ",Growth
+Operations Manager,Healthcare,Large,Dubai,Communication," $96,032.38 ",Stable
+Sales Manager,Manufacturing,Large,San Francisco,Machine Learning," $1,03,759.34 ",Growth
+Product Manager,Transportation,Small,Dubai,Cybersecurity," $42,486.68 ",Decline
+Marketing Specialist,Energy,Medium,Singapore,UX/UI Design," $1,01,964.99 ",Decline
+UX Designer,Technology,Small,New York,Marketing," $74,766.24 ",Growth
+Cybersecurity Analyst,Education,Large,Tokyo,Marketing," $96,197.55 ",Stable
+Operations Manager,Technology,Small,Dubai,Python," $89,411.31 ",Growth
+Cybersecurity Analyst,Healthcare,Large,San Francisco,JavaScript," $1,35,566.66 ",Stable
+Data Scientist,Technology,Large,Berlin,Data Analysis," $1,00,933.91 ",Decline
+Data Scientist,Manufacturing,Small,Toronto,Data Analysis," $87,747.52 ",Stable
+Operations Manager,Telecommunications,Large,London,Data Analysis," $59,806.14 ",Growth
+Operations Manager,Entertainment,Medium,Tokyo,JavaScript," $92,422.94 ",Growth
+Marketing Specialist,Education,Large,Dubai,Python," $1,06,464.58 ",Decline
+Operations Manager,Technology,Medium,Paris,JavaScript," $88,388.96 ",Stable
+HR Manager,Technology,Medium,London,Data Analysis," $79,886.87 ",Stable
+Cybersecurity Analyst,Healthcare,Large,Berlin,Machine Learning," $78,548.27 ",Stable
+Product Manager,Entertainment,Small,Singapore,Project Management," $1,00,702.83 ",Decline
+AI Researcher,Finance,Medium,Toronto,Cybersecurity," $1,05,187.76 ",Stable
+Operations Manager,Technology,Small,New York,JavaScript," $1,17,224.20 ",Growth
+Sales Manager,Manufacturing,Medium,Berlin,Python," $70,100.00 ",Stable
+Data Scientist,Transportation,Large,Berlin,Python," $1,00,519.55 ",Decline
+HR Manager,Education,Large,Singapore,Communication," $87,565.92 ",Stable
+UX Designer,Technology,Medium,Sydney,Project Management," $88,155.32 ",Stable
+AI Researcher,Manufacturing,Large,Singapore,UX/UI Design," $98,036.52 ",Growth
+Product Manager,Manufacturing,Medium,Sydney,Marketing," $98,153.13 ",Stable
+AI Researcher,Education,Large,Sydney,Data Analysis," $1,00,575.36 ",Growth
+Operations Manager,Finance,Small,Tokyo,UX/UI Design," $68,850.58 ",Growth
+Marketing Specialist,Manufacturing,Large,Tokyo,Communication," $75,003.77 ",Decline
+Data Scientist,Transportation,Small,San Francisco,Data Analysis," $1,19,717.37 ",Growth
+Data Scientist,Manufacturing,Large,Dubai,Project Management," $85,588.55 ",Growth
+UX Designer,Manufacturing,Small,Dubai,Communication," $96,120.29 ",Decline
+Marketing Specialist,Manufacturing,Large,New York,Data Analysis," $1,11,093.33 ",Growth
+Cybersecurity Analyst,Telecommunications,Small,Dubai,Project Management," $99,268.86 ",Decline
+Software Engineer,Telecommunications,Medium,Tokyo,Sales," $1,00,930.45 ",Stable
+HR Manager,Finance,Medium,San Francisco,UX/UI Design," $1,07,891.55 ",Decline
+Data Scientist,Technology,Small,San Francisco,UX/UI Design," $47,666.72 ",Growth
+Sales Manager,Manufacturing,Large,Sydney,Marketing," $80,201.00 ",Decline
+Data Scientist,Entertainment,Small,Singapore,Project Management," $99,372.12 ",Growth
+AI Researcher,Technology,Large,New York,JavaScript," $1,17,752.89 ",Stable
+Data Scientist,Finance,Medium,Sydney,Sales," $91,321.91 ",Decline
+Data Scientist,Retail,Large,Singapore,Machine Learning," $73,105.67 ",Stable
+Software Engineer,Technology,Medium,Dubai,Data Analysis," $73,638.28 ",Growth
+Software Engineer,Technology,Large,Sydney,Sales," $1,07,677.22 ",Growth
+Product Manager,Energy,Large,London,Project Management," $85,644.53 ",Stable
+Cybersecurity Analyst,Healthcare,Large,Dubai,Cybersecurity," $89,856.00 ",Decline
+Sales Manager,Energy,Small,Singapore,Data Analysis," $1,02,300.60 ",Decline
+Data Scientist,Transportation,Small,New York,Python," $31,969.53 ",Growth
+Data Scientist,Telecommunications,Medium,Singapore,UX/UI Design," $1,30,007.35 ",Stable
+HR Manager,Telecommunications,Medium,Sydney,Project Management," $75,378.52 ",Stable
+Software Engineer,Healthcare,Small,Sydney,Python," $94,838.73 ",Decline
+Sales Manager,Education,Medium,Berlin,Marketing," $55,906.06 ",Decline
+UX Designer,Education,Small,New York,Communication," $81,549.18 ",Decline
+Product Manager,Finance,Large,Paris,Machine Learning," $1,14,893.76 ",Stable
+Cybersecurity Analyst,Healthcare,Medium,Dubai,Machine Learning," $51,676.66 ",Decline
+Marketing Specialist,Technology,Medium,San Francisco,Python," $1,12,524.00 ",Decline
+Cybersecurity Analyst,Education,Small,New York,UX/UI Design," $84,526.08 ",Growth
+AI Researcher,Manufacturing,Medium,San Francisco,Marketing," $99,743.29 ",Decline
+Data Scientist,Entertainment,Medium,New York,Cybersecurity," $1,03,150.49 ",Decline
+Product Manager,Technology,Large,New York,UX/UI Design," $98,828.43 ",Stable
+AI Researcher,Transportation,Medium,Singapore,Sales," $72,700.99 ",Stable
+Sales Manager,Manufacturing,Large,New York,Machine Learning," $82,709.02 ",Growth
+Marketing Specialist,Manufacturing,Small,Berlin,Sales," $60,768.88 ",Decline
+Software Engineer,Healthcare,Medium,Paris,Data Analysis," $99,835.93 ",Growth
+Product Manager,Finance,Large,Sydney,JavaScript," $1,24,041.10 ",Stable
+Product Manager,Transportation,Small,Toronto,Project Management," $53,511.18 ",Growth
+Data Scientist,Education,Medium,San Francisco,Marketing," $74,767.08 ",Stable
+Operations Manager,Healthcare,Small,Sydney,UX/UI Design," $86,364.49 ",Growth
+Product Manager,Education,Medium,Toronto,Machine Learning," $93,466.83 ",Growth
+HR Manager,Healthcare,Small,Paris,Sales," $1,07,583.53 ",Decline
+Marketing Specialist,Healthcare,Small,Paris,Communication," $86,956.00 ",Growth
+Marketing Specialist,Healthcare,Large,San Francisco,Data Analysis," $83,680.83 ",Decline
+HR Manager,Finance,Small,San Francisco,Project Management," $1,12,062.61 ",Decline
+UX Designer,Healthcare,Medium,Paris,Project Management," $1,03,239.91 ",Decline
+HR Manager,Retail,Medium,Toronto,UX/UI Design," $1,00,779.56 ",Decline
+HR Manager,Entertainment,Large,New York,Marketing," $92,250.31 ",Growth
+Marketing Specialist,Education,Medium,Dubai,Cybersecurity," $1,09,663.04 ",Stable
+Cybersecurity Analyst,Technology,Medium,London,Communication," $76,873.81 ",Stable
+Marketing Specialist,Energy,Medium,Sydney,UX/UI Design," $74,146.11 ",Stable
+Operations Manager,Transportation,Small,Singapore,Sales," $1,04,922.02 ",Growth
+Data Scientist,Telecommunications,Small,Sydney,JavaScript," $57,499.28 ",Decline
+AI Researcher,Finance,Medium,Singapore,Python," $91,843.59 ",Stable
+Cybersecurity Analyst,Technology,Large,Toronto,Cybersecurity," $83,668.83 ",Growth
+Software Engineer,Manufacturing,Small,Singapore,Marketing," $61,884.91 ",Decline
+AI Researcher,Retail,Large,San Francisco,Data Analysis," $71,374.65 ",Stable
+Data Scientist,Telecommunications,Medium,Dubai,Cybersecurity," $87,820.48 ",Decline
+Operations Manager,Energy,Medium,Dubai,Machine Learning," $1,10,679.27 ",Stable
+Operations Manager,Technology,Small,San Francisco,Marketing," $76,940.84 ",Stable
+Software Engineer,Telecommunications,Medium,Berlin,JavaScript," $1,14,267.63 ",Stable
+Cybersecurity Analyst,Technology,Small,Toronto,Machine Learning," $91,263.58 ",Decline
+UX Designer,Retail,Medium,Berlin,Cybersecurity," $1,16,207.69 ",Growth
+HR Manager,Energy,Medium,Berlin,Python," $77,910.17 ",Decline
+Cybersecurity Analyst,Manufacturing,Small,Sydney,Python," $89,023.81 ",Stable
+UX Designer,Healthcare,Small,Paris,JavaScript," $97,369.67 ",Decline
+Operations Manager,Education,Small,Sydney,Project Management," $86,409.79 ",Growth
+Marketing Specialist,Manufacturing,Medium,Paris,Communication," $1,09,060.48 ",Decline
+Data Scientist,Healthcare,Medium,London,Data Analysis," $45,848.73 ",Growth
+Software Engineer,Finance,Large,Singapore,Project Management," $1,38,448.11 ",Growth
+Data Scientist,Entertainment,Small,Paris,Python," $1,07,155.49 ",Decline
+Sales Manager,Transportation,Medium,San Francisco,Python," $86,529.36 ",Stable
+Sales Manager,Transportation,Medium,Sydney,Sales," $78,953.57 ",Growth
+Cybersecurity Analyst,Education,Small,Toronto,Machine Learning," $72,671.59 ",Decline
+Operations Manager,Energy,Large,Singapore,Cybersecurity," $1,02,912.31 ",Growth
+Operations Manager,Retail,Small,London,Data Analysis," $1,09,899.63 ",Stable
+HR Manager,Energy,Large,Paris,JavaScript," $86,749.48 ",Decline
+HR Manager,Retail,Medium,London,Cybersecurity," $1,12,139.81 ",Decline
+HR Manager,Energy,Large,Toronto,Sales," $71,854.80 ",Decline
+Marketing Specialist,Entertainment,Medium,Berlin,Python," $68,323.78 ",Stable
+AI Researcher,Finance,Small,Dubai,JavaScript," $1,26,266.82 ",Growth
+Product Manager,Finance,Small,Toronto,Python," $1,01,822.17 ",Decline
+AI Researcher,Healthcare,Small,Tokyo,Data Analysis," $1,17,936.96 ",Growth
+Data Scientist,Telecommunications,Large,Toronto,Machine Learning," $72,921.21 ",Growth
+AI Researcher,Finance,Medium,London,Cybersecurity," $71,529.49 ",Stable
+Marketing Specialist,Finance,Small,San Francisco,Cybersecurity," $82,827.81 ",Decline
+Data Scientist,Manufacturing,Small,Sydney,Project Management," $73,518.82 ",Growth
+AI Researcher,Manufacturing,Medium,San Francisco,JavaScript," $1,04,107.30 ",Decline
+Marketing Specialist,Healthcare,Small,London,Communication," $74,977.48 ",Decline
+Product Manager,Telecommunications,Medium,Sydney,Sales," $66,566.60 ",Stable
+AI Researcher,Education,Medium,Tokyo,Communication," $92,840.31 ",Decline
+Marketing Specialist,Manufacturing,Medium,Dubai,Project Management," $64,200.28 ",Decline
+HR Manager,Education,Medium,Singapore,Data Analysis," $54,010.72 ",Growth
+Operations Manager,Technology,Medium,London,Sales," $92,665.14 ",Stable
+HR Manager,Manufacturing,Large,Paris,Machine Learning," $55,015.60 ",Decline
+Operations Manager,Entertainment,Small,London,Communication," $1,05,505.59 ",Growth
+Software Engineer,Telecommunications,Large,London,Machine Learning," $62,093.33 ",Stable
+Software Engineer,Healthcare,Small,Sydney,Communication," $45,186.52 ",Stable
+Software Engineer,Technology,Large,New York,Machine Learning," $84,124.07 ",Growth
+Product Manager,Telecommunications,Medium,Toronto,Communication," $92,891.89 ",Growth
+HR Manager,Entertainment,Small,New York,Machine Learning," $99,829.50 ",Growth
+Operations Manager,Telecommunications,Small,Tokyo,Project Management," $93,440.31 ",Growth
+Marketing Specialist,Entertainment,Large,Paris,Marketing," $68,813.75 ",Growth
+Data Scientist,Entertainment,Large,Dubai,Sales," $1,04,261.22 ",Decline
+Marketing Specialist,Education,Small,Berlin,JavaScript," $1,09,202.77 ",Decline
+Data Scientist,Energy,Large,Tokyo,Data Analysis," $65,884.76 ",Stable
+Sales Manager,Technology,Large,Berlin,UX/UI Design," $86,379.88 ",Decline
+Marketing Specialist,Telecommunications,Large,Berlin,Python," $84,511.20 ",Decline
+AI Researcher,Retail,Medium,Dubai,JavaScript," $94,407.63 ",Decline
+AI Researcher,Technology,Medium,San Francisco,Python," $85,901.52 ",Growth
+Cybersecurity Analyst,Energy,Large,New York,Sales," $88,642.44 ",Stable
+HR Manager,Technology,Large,London,JavaScript," $1,02,836.31 ",Stable
+Data Scientist,Finance,Medium,Singapore,Machine Learning," $67,722.94 ",Stable
+Data Scientist,Retail,Medium,Berlin,Machine Learning," $1,04,747.46 ",Stable
+HR Manager,Energy,Small,Paris,UX/UI Design," $1,12,822.65 ",Decline
+Product Manager,Education,Small,Tokyo,Python," $1,22,682.70 ",Decline
+Cybersecurity Analyst,Telecommunications,Medium,San Francisco,Data Analysis," $47,132.65 ",Growth
+Product Manager,Transportation,Large,Berlin,Sales," $86,341.97 ",Stable
+Product Manager,Energy,Large,San Francisco,Machine Learning," $50,697.99 ",Decline
+Product Manager,Healthcare,Large,San Francisco,Marketing," $41,298.73 ",Decline
+HR Manager,Telecommunications,Large,Berlin,Project Management," $92,881.86 ",Growth
+Product Manager,Energy,Small,Sydney,Project Management," $82,016.96 ",Growth
+AI Researcher,Finance,Medium,Toronto,Communication," $95,997.02 ",Growth
+Software Engineer,Transportation,Large,Paris,Data Analysis," $99,722.55 ",Decline
+Sales Manager,Finance,Small,London,Project Management," $1,14,957.92 ",Decline
+Data Scientist,Transportation,Large,London,Communication," $91,078.41 ",Growth
+Data Scientist,Healthcare,Medium,Paris,Python," $1,48,467.11 ",Stable
+Sales Manager,Telecommunications,Small,Sydney,Machine Learning," $96,128.20 ",Growth
+HR Manager,Education,Medium,London,Machine Learning," $1,26,849.58 ",Growth
+Marketing Specialist,Finance,Medium,San Francisco,Marketing," $43,343.24 ",Growth
+HR Manager,Finance,Small,Dubai,JavaScript," $1,16,994.79 ",Growth
+Data Scientist,Entertainment,Small,Tokyo,Project Management," $86,384.79 ",Decline
+Data Scientist,Transportation,Small,New York,Python," $51,033.05 ",Stable
+Sales Manager,Manufacturing,Small,London,Cybersecurity," $98,410.90 ",Growth
+Product Manager,Telecommunications,Small,Paris,Project Management," $83,940.89 ",Stable
+HR Manager,Transportation,Small,Dubai,Data Analysis," $1,01,601.06 ",Stable
+Operations Manager,Entertainment,Small,Berlin,JavaScript," $1,10,221.53 ",Stable
+Sales Manager,Technology,Large,Toronto,Project Management," $60,217.00 ",Growth
+AI Researcher,Transportation,Medium,Paris,Python," $1,10,298.38 ",Decline
+Data Scientist,Education,Small,San Francisco,Project Management," $90,129.59 ",Growth
+Sales Manager,Telecommunications,Large,Toronto,Data Analysis," $1,17,056.82 ",Stable
+HR Manager,Entertainment,Large,Tokyo,Cybersecurity," $85,897.04 ",Stable
+Data Scientist,Technology,Large,Tokyo,Sales," $80,591.82 ",Decline
+Marketing Specialist,Retail,Medium,Sydney,UX/UI Design," $90,541.08 ",Growth
+Sales Manager,Entertainment,Small,Singapore,Cybersecurity," $92,037.21 ",Stable
+Cybersecurity Analyst,Retail,Large,Sydney,Communication," $76,744.30 ",Decline
+Data Scientist,Telecommunications,Medium,Dubai,Project Management," $80,073.91 ",Stable
+HR Manager,Finance,Medium,Toronto,Machine Learning," $65,462.49 ",Decline
+Software Engineer,Entertainment,Medium,Singapore,Marketing," $81,307.10 ",Decline
+Operations Manager,Healthcare,Large,Berlin,Machine Learning," $1,03,526.20 ",Growth
+UX Designer,Retail,Small,San Francisco,Cybersecurity," $87,252.92 ",Stable
+Product Manager,Education,Large,Toronto,Machine Learning," $1,10,181.31 ",Growth
+UX Designer,Healthcare,Large,Sydney,Python," $86,291.41 ",Stable
+HR Manager,Energy,Small,New York,Machine Learning," $61,369.64 ",Growth
+AI Researcher,Energy,Small,Singapore,JavaScript," $1,01,945.50 ",Stable
+AI Researcher,Technology,Small,Singapore,Sales," $76,527.54 ",Growth
+Software Engineer,Finance,Medium,San Francisco,Project Management," $85,332.65 ",Decline
+Product Manager,Telecommunications,Small,London,Machine Learning," $1,14,751.44 ",Stable
+Cybersecurity Analyst,Entertainment,Large,Tokyo,Data Analysis," $66,782.59 ",Stable
+Software Engineer,Manufacturing,Small,Tokyo,Sales," $93,294.88 ",Decline
+UX Designer,Education,Large,New York,Sales," $89,189.63 ",Growth
+Software Engineer,Retail,Medium,Dubai,Machine Learning," $1,04,018.51 ",Stable
+UX Designer,Telecommunications,Large,Dubai,Sales," $1,07,103.07 ",Stable
+Data Scientist,Healthcare,Large,Berlin,Marketing," $95,276.78 ",Growth
+AI Researcher,Energy,Small,Toronto,Machine Learning," $82,792.51 ",Decline
+Data Scientist,Education,Small,Paris,Python," $99,467.45 ",Growth
+Operations Manager,Manufacturing,Large,London,Cybersecurity," $1,16,713.12 ",Growth
+Product Manager,Entertainment,Small,Sydney,JavaScript," $89,454.20 ",Growth
+Cybersecurity Analyst,Technology,Medium,Paris,UX/UI Design," $84,654.88 ",Stable
+UX Designer,Manufacturing,Medium,Paris,Communication," $97,763.41 ",Decline
+Cybersecurity Analyst,Education,Small,Singapore,Sales," $90,774.54 ",Decline
+UX Designer,Manufacturing,Medium,New York,Python," $63,245.81 ",Growth
+HR Manager,Education,Small,Tokyo,Project Management," $94,786.62 ",Stable
+Software Engineer,Education,Large,Berlin,Project Management," $63,064.75 ",Growth
+Operations Manager,Transportation,Large,Dubai,Communication," $97,489.61 ",Stable
+AI Researcher,Retail,Medium,New York,JavaScript," $74,057.15 ",Stable
+UX Designer,Energy,Small,Singapore,Sales," $90,737.50 ",Stable
+Cybersecurity Analyst,Transportation,Small,Sydney,Marketing," $97,811.88 ",Stable
+Operations Manager,Entertainment,Medium,Berlin,Communication," $1,39,078.07 ",Decline
+Marketing Specialist,Transportation,Large,Singapore,JavaScript," $1,04,855.00 ",Stable
+Marketing Specialist,Finance,Medium,Tokyo,Sales," $1,17,295.98 ",Stable
+Data Scientist,Finance,Large,Tokyo,Python," $1,27,434.96 ",Growth
+AI Researcher,Energy,Small,Tokyo,Cybersecurity," $99,785.12 ",Growth
+HR Manager,Manufacturing,Large,New York,Marketing," $95,713.80 ",Decline
+Cybersecurity Analyst,Retail,Medium,New York,UX/UI Design," $68,665.58 ",Growth
+Software Engineer,Energy,Small,Dubai,Project Management," $87,667.40 ",Stable
+Software Engineer,Education,Medium,Dubai,Data Analysis," $75,538.25 ",Growth
+Cybersecurity Analyst,Healthcare,Medium,Sydney,Python," $81,978.82 ",Decline
+Product Manager,Retail,Large,Berlin,Project Management," $1,27,413.27 ",Growth
+HR Manager,Retail,Medium,San Francisco,Machine Learning," $92,292.43 ",Growth
+Operations Manager,Education,Large,San Francisco,Data Analysis," $72,482.01 ",Decline
+UX Designer,Education,Small,Singapore,Project Management," $1,17,490.67 ",Decline
+Product Manager,Technology,Large,Tokyo,JavaScript," $1,09,105.51 ",Stable
+UX Designer,Energy,Small,Berlin,Marketing," $1,10,153.07 ",Growth
+UX Designer,Education,Large,Paris,Project Management," $49,877.40 ",Stable
+Product Manager,Finance,Medium,New York,UX/UI Design," $1,28,973.42 ",Growth
+Data Scientist,Entertainment,Large,Toronto,Cybersecurity," $78,829.71 ",Growth
+Marketing Specialist,Healthcare,Large,London,JavaScript," $1,05,559.10 ",Stable
+UX Designer,Energy,Small,Sydney,Python," $1,40,476.00 ",Growth
+Product Manager,Telecommunications,Medium,Tokyo,Python," $1,33,106.65 ",Growth
+Product Manager,Finance,Large,Tokyo,Python," $70,448.76 ",Growth
+Sales Manager,Manufacturing,Medium,Tokyo,Python," $61,109.65 ",Decline
+Data Scientist,Education,Large,New York,Cybersecurity," $1,18,606.93 ",Stable
+AI Researcher,Telecommunications,Large,New York,Project Management," $92,841.12 ",Decline
+Sales Manager,Education,Medium,London,Sales," $79,982.37 ",Stable
+Sales Manager,Retail,Large,Paris,Project Management," $1,02,424.37 ",Stable
+Cybersecurity Analyst,Finance,Medium,Berlin,Machine Learning," $86,742.41 ",Growth
+Marketing Specialist,Retail,Large,Tokyo,Marketing," $1,04,026.48 ",Stable
+Product Manager,Technology,Small,San Francisco,Data Analysis," $91,339.64 ",Decline
+Marketing Specialist,Retail,Medium,Dubai,Sales," $1,04,447.76 ",Decline
+HR Manager,Technology,Large,San Francisco,Sales," $72,109.35 ",Decline
+Cybersecurity Analyst,Technology,Large,Singapore,Project Management," $1,18,489.24 ",Stable
+AI Researcher,Telecommunications,Small,San Francisco,Sales," $1,03,952.47 ",Decline
+Marketing Specialist,Education,Medium,Singapore,Communication," $1,02,925.95 ",Stable
+Software Engineer,Manufacturing,Large,Toronto,Communication," $67,646.60 ",Decline
+UX Designer,Retail,Small,Dubai,Machine Learning," $1,23,992.65 ",Decline
+HR Manager,Finance,Large,San Francisco,Data Analysis," $89,725.68 ",Stable
+Data Scientist,Technology,Medium,Toronto,UX/UI Design," $1,04,560.98 ",Decline
+AI Researcher,Education,Large,Sydney,Cybersecurity," $83,543.51 ",Growth
+HR Manager,Healthcare,Large,Berlin,Project Management," $95,217.78 ",Stable
+UX Designer,Energy,Large,Toronto,Cybersecurity," $95,942.55 ",Stable
+Cybersecurity Analyst,Telecommunications,Large,Berlin,UX/UI Design," $33,601.38 ",Stable
+UX Designer,Manufacturing,Small,San Francisco,Project Management," $1,01,648.96 ",Growth
+Sales Manager,Transportation,Small,Paris,Project Management," $1,29,306.83 ",Stable
+UX Designer,Telecommunications,Medium,Toronto,Data Analysis," $1,00,795.61 ",Decline
+Sales Manager,Healthcare,Small,Dubai,Cybersecurity," $70,845.84 ",Decline
+Cybersecurity Analyst,Energy,Small,San Francisco,Communication," $1,02,999.23 ",Decline
+Operations Manager,Healthcare,Medium,Tokyo,Python," $1,11,189.61 ",Stable
+Sales Manager,Retail,Small,New York,Cybersecurity," $1,00,249.33 ",Decline
+Data Scientist,Technology,Small,Toronto,Marketing," $88,517.46 ",Stable
+UX Designer,Manufacturing,Medium,Dubai,Marketing," $85,157.02 ",Decline
+UX Designer,Entertainment,Medium,Sydney,Project Management," $85,073.80 ",Growth
+Data Scientist,Technology,Medium,Tokyo,Python," $1,03,955.54 ",Growth
+Software Engineer,Entertainment,Large,Sydney,JavaScript," $61,857.52 ",Growth
+Product Manager,Energy,Large,San Francisco,UX/UI Design," $82,562.54 ",Growth
+Operations Manager,Education,Medium,New York,Machine Learning," $1,21,912.20 ",Stable
+AI Researcher,Transportation,Medium,Toronto,Python," $1,22,683.91 ",Decline
+Sales Manager,Finance,Medium,Toronto,Machine Learning," $60,437.06 ",Growth
+Data Scientist,Technology,Large,Paris,Cybersecurity," $67,371.73 ",Stable
+Cybersecurity Analyst,Manufacturing,Large,Paris,Cybersecurity," $84,587.59 ",Growth
+Sales Manager,Healthcare,Small,San Francisco,Machine Learning," $1,07,851.79 ",Growth
+Product Manager,Manufacturing,Small,San Francisco,UX/UI Design," $53,450.51 ",Stable
+Cybersecurity Analyst,Energy,Medium,New York,Python," $88,903.83 ",Stable
+HR Manager,Entertainment,Large,Paris,JavaScript," $80,516.42 ",Decline
+UX Designer,Healthcare,Large,Dubai,Project Management," $1,16,519.29 ",Decline
+HR Manager,Finance,Large,Dubai,Data Analysis," $56,461.83 ",Growth
+Sales Manager,Finance,Medium,New York,Cybersecurity," $91,850.81 ",Growth
+Product Manager,Technology,Small,Dubai,Marketing," $82,127.81 ",Decline
+Operations Manager,Energy,Medium,Singapore,UX/UI Design," $1,19,395.98 ",Decline
+Sales Manager,Education,Small,Berlin,Data Analysis," $1,01,953.05 ",Stable
+Data Scientist,Energy,Small,New York,JavaScript," $78,283.69 ",Decline
+Marketing Specialist,Entertainment,Medium,New York,Sales," $1,07,067.73 ",Decline
+Sales Manager,Manufacturing,Small,London,Project Management," $82,223.42 ",Growth
+UX Designer,Finance,Small,Tokyo,Cybersecurity," $1,09,986.59 ",Decline
+UX Designer,Manufacturing,Large,Tokyo,Project Management," $85,258.46 ",Growth
+Sales Manager,Manufacturing,Small,Singapore,Data Analysis," $1,11,093.33 ",Decline
+Cybersecurity Analyst,Manufacturing,Medium,Paris,Project Management," $98,721.64 ",Stable
+Marketing Specialist,Finance,Medium,San Francisco,Sales," $1,55,209.82 ",Decline
+Data Scientist,Telecommunications,Small,San Francisco,Data Analysis," $88,942.08 ",Decline
+Sales Manager,Retail,Large,Sydney,Cybersecurity," $97,657.25 ",Decline
+Cybersecurity Analyst,Entertainment,Large,Singapore,Python," $80,411.51 ",Growth
+UX Designer,Telecommunications,Small,New York,Marketing," $90,053.71 ",Stable
+UX Designer,Entertainment,Small,Singapore,Data Analysis," $35,963.30 ",Decline
+Product Manager,Healthcare,Medium,Singapore,Communication," $99,311.68 ",Growth
+Sales Manager,Energy,Small,Singapore,Sales," $1,16,857.48 ",Stable
+Marketing Specialist,Energy,Large,Tokyo,Data Analysis," $97,932.60 ",Growth
+Software Engineer,Transportation,Small,Singapore,Data Analysis," $63,722.77 ",Growth
+Marketing Specialist,Energy,Medium,Berlin,Communication," $73,964.26 ",Stable
+UX Designer,Finance,Medium,San Francisco,Cybersecurity," $41,396.16 ",Decline
+UX Designer,Education,Medium,Sydney,Data Analysis," $1,09,578.48 ",Growth
+HR Manager,Technology,Medium,Berlin,Marketing," $69,869.73 ",Growth
+UX Designer,Transportation,Medium,Sydney,Project Management," $89,425.83 ",Decline
+Data Scientist,Technology,Small,London,Cybersecurity," $86,925.25 ",Decline
+AI Researcher,Entertainment,Small,Sydney,Marketing," $1,19,754.54 ",Stable
+Sales Manager,Technology,Small,San Francisco,Cybersecurity," $91,705.63 ",Stable
+Marketing Specialist,Technology,Small,San Francisco,Marketing," $1,06,177.86 ",Stable
+AI Researcher,Transportation,Medium,Singapore,Sales," $1,00,929.28 ",Decline
+Cybersecurity Analyst,Healthcare,Large,Toronto,Marketing," $1,17,188.23 ",Growth
+Software Engineer,Manufacturing,Small,London,Machine Learning," $85,217.53 ",Growth
+Data Scientist,Energy,Large,New York,Marketing," $1,27,392.31 ",Stable
+Marketing Specialist,Energy,Small,Dubai,Python," $50,286.76 ",Decline
+AI Researcher,Finance,Small,Sydney,Python," $1,07,149.47 ",Growth
+Software Engineer,Transportation,Large,Toronto,UX/UI Design," $72,667.61 ",Stable
+HR Manager,Finance,Medium,Singapore,Machine Learning," $80,145.01 ",Growth
+Data Scientist,Education,Small,Tokyo,Machine Learning," $1,01,388.29 ",Growth
+Data Scientist,Education,Small,New York,Project Management," $1,01,228.04 ",Decline
+HR Manager,Finance,Small,Paris,Machine Learning," $1,02,128.56 ",Decline
+Sales Manager,Transportation,Large,Toronto,Project Management," $62,276.84 ",Growth
+HR Manager,Finance,Medium,Tokyo,UX/UI Design," $1,18,980.60 ",Stable
+Data Scientist,Energy,Large,London,UX/UI Design," $71,987.06 ",Decline
+Data Scientist,Telecommunications,Large,Singapore,Sales," $74,654.26 ",Growth
+AI Researcher,Retail,Medium,New York,Python," $1,02,757.93 ",Decline
+UX Designer,Technology,Large,New York,Marketing," $84,265.58 ",Decline
+Software Engineer,Retail,Medium,New York,Marketing," $96,165.22 ",Decline
+HR Manager,Transportation,Small,London,Communication," $46,867.99 ",Growth
+Software Engineer,Retail,Medium,Sydney,Communication," $95,686.49 ",Stable
+HR Manager,Education,Small,Paris,JavaScript," $94,356.64 ",Stable
+Cybersecurity Analyst,Entertainment,Large,London,Cybersecurity," $79,802.83 ",Stable
+Data Scientist,Technology,Large,Dubai,Sales," $48,518.48 ",Decline
+UX Designer,Manufacturing,Small,Paris,JavaScript," $85,743.83 ",Growth
+AI Researcher,Transportation,Large,San Francisco,JavaScript," $89,252.52 ",Decline
+UX Designer,Technology,Medium,Singapore,Data Analysis," $82,655.42 ",Stable
+UX Designer,Retail,Small,London,Data Analysis," $53,276.51 ",Stable
+UX Designer,Education,Large,Tokyo,JavaScript," $1,21,894.68 ",Growth
+Software Engineer,Healthcare,Small,Paris,Machine Learning," $77,222.77 ",Decline
+HR Manager,Telecommunications,Medium,Dubai,Cybersecurity," $85,555.91 ",Stable
+Operations Manager,Manufacturing,Medium,San Francisco,Sales," $41,810.51 ",Growth
+Cybersecurity Analyst,Telecommunications,Large,Sydney,JavaScript," $1,21,897.11 ",Decline
+Marketing Specialist,Technology,Medium,Tokyo,Marketing," $80,669.00 ",Decline
+UX Designer,Education,Small,Paris,Cybersecurity," $91,969.26 ",Stable
+Sales Manager,Education,Medium,Singapore,Data Analysis," $1,12,414.75 ",Stable
+Software Engineer,Retail,Small,Tokyo,Marketing," $76,473.92 ",Decline
+AI Researcher,Energy,Small,San Francisco,Data Analysis," $1,09,264.90 ",Decline
+Marketing Specialist,Retail,Medium,Tokyo,Data Analysis," $48,773.49 ",Stable
+Operations Manager,Energy,Large,Berlin,Cybersecurity," $1,01,019.73 ",Decline
+Sales Manager,Energy,Medium,Toronto,Data Analysis," $1,21,444.84 ",Stable
+Operations Manager,Manufacturing,Small,Sydney,UX/UI Design," $78,391.66 ",Decline
+Marketing Specialist,Retail,Small,San Francisco,Python," $1,12,377.63 ",Stable
+UX Designer,Healthcare,Medium,Tokyo,UX/UI Design," $1,26,678.45 ",Growth
+Sales Manager,Finance,Large,Toronto,Python," $84,903.16 ",Stable
+Operations Manager,Finance,Large,Toronto,Communication," $83,249.43 ",Stable
+AI Researcher,Retail,Small,Tokyo,Communication," $72,034.13 ",Growth
+HR Manager,Retail,Small,Singapore,Data Analysis," $79,805.40 ",Decline
+Data Scientist,Telecommunications,Large,Berlin,Sales," $73,692.80 ",Growth
+HR Manager,Manufacturing,Medium,London,Sales," $72,017.78 ",Stable
+Marketing Specialist,Retail,Small,Berlin,Python," $1,13,976.71 ",Decline
+Software Engineer,Telecommunications,Small,Tokyo,Marketing," $74,201.48 ",Growth
+Data Scientist,Energy,Large,Sydney,Cybersecurity," $95,170.44 ",Decline
+Cybersecurity Analyst,Education,Medium,London,Data Analysis," $90,764.67 ",Decline
+AI Researcher,Education,Large,San Francisco,Cybersecurity," $1,19,961.89 ",Growth
+Cybersecurity Analyst,Energy,Medium,Berlin,UX/UI Design," $79,936.88 ",Decline
+Sales Manager,Transportation,Medium,Tokyo,Sales," $97,622.96 ",Growth
+Data Scientist,Telecommunications,Medium,Berlin,Machine Learning," $1,05,821.39 ",Stable
+Cybersecurity Analyst,Telecommunications,Small,London,UX/UI Design," $1,19,794.99 ",Decline
+Cybersecurity Analyst,Energy,Large,Dubai,UX/UI Design," $79,644.93 ",Stable
+Operations Manager,Healthcare,Large,Paris,Python," $77,642.15 ",Stable
+HR Manager,Entertainment,Medium,Berlin,Project Management," $68,764.38 ",Decline
+Cybersecurity Analyst,Retail,Medium,San Francisco,Cybersecurity," $75,862.86 ",Growth
+AI Researcher,Marketing,Medium,Dubai,Machine Learning," $71,211.88 ",Growth
+AI Researcher,Retail,Small,London,Data Analysis," $71,374.65 ",Stable
+AI Researcher,Telecommunications,Large,Paris,Sales," $103,952.47 ",Decline
+AI Researcher,Transportation,Large,London,JavaScript," $89,252.52 ",Decline
+UX Designer,Entertainment,Small,Dubai,Project Management," $89,145.92 ",Decline
+Software Engineer,Finance,Small,Dubai,Project Management," $85,332.65 ",Decline
+AI Researcher,Manufacturing,Medium,San Francisco,Marketing," $99,743.29 ",Decline
+AI Researcher,Manufacturing,Small,Dubai,JavaScript," $104,107.30 ",Decline
+UX Designer,Manufacturing,Large,New York,Project Management," $101,648.96 ",Growth
+AI Researcher,Transportation,Small,Sydney,Python," $73,151.99 ",Growth
+Software Engineer,Finance,Medium,Dubai,UX/UI Design," $56,076.42 ",Growth
+UX Designer,Education,Medium,London,Cybersecurity," $102,825.01 ",Growth
+AI Researcher,Education,Medium,Dubai,Cybersecurity," $119,961.89 ",Growth
+AI Researcher,Technology,Medium,New York,Python," $85,901.52 ",Growth
+Data Scientist,Technology,Medium,Singapore,UX/UI Design," $47,666.72 ",Growth
+UX Designer,Retail,Small,Singapore,Cybersecurity," $87,252.92 ",Stable
+Data Scientist,Telecommunications,Small,Tokyo,Data Analysis," $88,942.08 ",Decline
+UX Designer,Finance,Small,Paris,Cybersecurity," $41,396.16 ",Decline
+Data Scientist,Education,Small,Berlin,Project Management," $90,129.59 ",Growth
+Cybersecurity Analyst,Telecommunications,Medium,Sydney,Data Analysis," $47,132.65 ",Growth
+Data Scientist,Transportation,Medium,Toronto,Data Analysis," $119,717.37 ",Growth
+Cybersecurity Analyst,Healthcare,Small,Tokyo,JavaScript," $135,566.66 ",Stable
+Data Scientist,Education,Large,Paris,Data Analysis," $105,370.34 ",Stable
+Software Engineer,Transportation,Large,Singapore,JavaScript," $81,160.64 ",Stable
+Data Scientist,Education,Small,London,Marketing," $74,767.08 ",Stable
+AI Researcher,Marketing,Small,Toronto,Data Analysis," $109,264.90 ",Decline
+Cybersecurity Analyst,Marketing,Medium,Paris,Communication," $102,999.23 ",Decline
